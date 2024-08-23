@@ -4,7 +4,7 @@
   <groupId>com.example</groupId>
   <artifactId>common-dto</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <name>common-dto</name>
   <url>http://maven.apache.org</url>
 
